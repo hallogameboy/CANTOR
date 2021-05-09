@@ -15,6 +15,5 @@ This repository is still under construction for better documentation and readabi
 }
 ```
 
-```
 Jiang, J. Y., Chen, P. H., Hsieh, C. J., & Wang, W. (2020, April). Clustering and Constructing User Coresets to Accelerate Large-scale Top-K Recommender Systems. In Proceedings of The Web Conference 2020 (pp. 2177-2187).
-```
+
